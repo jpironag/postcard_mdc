@@ -1,0 +1,95 @@
+
+body {background: black;
+      margin: 0;;
+}
+
+#postCard{background: #171717;
+          width: 870px;
+          height: 620px;
+          margin-left: 240px;
+          padding: 20px;
+}
+
+#postCardLayout{margin-top: 150px;
+                margin-left: 200px;
+                font-family: 'Handlee', cursive;}
+                
+/*.flexboxContainers {display: flex;
+  	                margin-bottom: 15px;}
+
+.flexboxContainers div {background: white;
+                        width: 30%;}
+                        
+#rigthpostCardHeader{text-align: right;}
+#postCardfooter{text-align: center;}*/
+
+img{margin-top: 15px;
+    margin-right: 5px;}
+    
+input{
+	  margin-bottom: 5px;
+      margin-left: 20px;
+      width:168px;
+      font-family: 'Handlee', cursive;
+      font-size: 15px;
+      
+/*Others Forms teacher Cambiar el border y el tama;o de los campos**********/
+/*Border:none;
+border-bottom: 1px solid gray;
+font-size:29px;}
+      
+/***Others Forms teacher Name for the input
+#rigthpostCardBody input::placeholder{color:lightgray;}
+input :: -webkit-input-placeholder{ color:lightgray;
+                                    font-family: 'Open Sans', sans-serif,italic; 
+input::placeholder{color:lightgray;}**/
+      
+p {
+    margin: 0;
+    font-size: 16px;
+    margin-left: 11px;
+    font-weight:bold;
+}
+  
+h1 {
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 10px;}
+    
+#postCardfooter{background-color: white;
+}
+
+
+/*    
+.button {background-color: gray;
+    border: none;
+    color: black;
+    text-align: center;
+    padding: 1px 1px 5px 3px;
+    font-family: 'Handlee', cursive;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight:bold;
+    margin-top: 23px;
+    margin-bottom: 25px;
+    margin-left: 145px;
+    width:auto;
+}
+    
+.button:hover {border: none;
+               background-color: gray;}  
+               
+/** Others forms teacher work with boutton**/
+/*.flexboxContainers{border: none;
+    color: black;
+    background:gray;
+    text-align: center;
+    padding: 1px 1px 5px 3px;
+    font-family: 'Handlee', cursive;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight:bold;
+    margin-top: 23px;
+    margin-bottom: 25px;
+    margin-left: 145px;
+    width:auto;}*/
